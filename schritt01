@@ -1,0 +1,21 @@
+<!DOKTYPE html>
+<html lang="de">
+    
+  <head>
+  <meta charset="utf-8">
+<title>HTMLGrundlagen</title>
+ </head>
+
+    <body>
+    <header>
+        <h1>Semantische Elemente</h1>
+        </header>
+        <main>
+        <p>
+        </p>
+        </main>
+        <footer>
+        </footer>
+ </body>
+
+</html>
